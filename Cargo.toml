@@ -3,6 +3,8 @@ name = "tasker_service"
 version = "0.1.0"
 edition = "2021"
 description = "a service for executing time based commands"
+license = "GPL-3.0"
+authors = ["Daniel M. email:danielmadmon@protonmail.com"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
